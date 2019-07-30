@@ -22,6 +22,10 @@
           <option name="url" value="https://gitlab.com/product-hunter/data-engineering/product-hunter-application-backend-python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/freetrade-io/cloud-composer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
