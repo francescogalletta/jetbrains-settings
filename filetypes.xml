@@ -7,11 +7,11 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="orders_flat_distinct_clean" type="SQL" />
+      <mapping pattern="volume_comparison_migration" type="SQL" />
       <mapping pattern="accounts_distinct_clean" type="SQL" />
       <mapping pattern="clients_distinct_clean" type="SQL" />
       <mapping pattern="stg_accounts" type="SQL" />
-      <mapping pattern="volume_comparison_migration" type="SQL" />
-      <mapping pattern="orders_flat_distinct_clean" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
