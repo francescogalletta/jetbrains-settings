@@ -9,6 +9,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="load_to_bigquery" type="Python" />
+      <mapping pattern="download_json_to_disc" type="Python" />
       <mapping pattern="orders_flat_distinct_clean" type="SQL" />
       <mapping pattern="stg_intercom_conversations" type="SQL" />
       <mapping pattern="volume_comparison_migration" type="SQL" />
