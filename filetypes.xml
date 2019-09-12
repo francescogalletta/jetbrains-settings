@@ -12,6 +12,7 @@
       <mapping pattern="download_json_to_disc" type="Python" />
       <mapping pattern="orders_flat_distinct_clean" type="SQL" />
       <mapping pattern="stg_intercom_conversations" type="SQL" />
+      <mapping pattern="orders" type="SQL" />
       <mapping pattern="volume_comparison_migration" type="SQL" />
       <mapping pattern="accounts_distinct_clean" type="SQL" />
       <mapping pattern="clients_distinct_clean" type="SQL" />
