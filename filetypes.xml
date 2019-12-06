@@ -2,20 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="activity_feed_distinct_clean" type="Android Room SQL" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="load_to_bigquery" type="Python" />
-      <mapping pattern="download_json_to_disc" type="Python" />
-      <mapping pattern="orders_flat_distinct_clean" type="SQL" />
       <mapping pattern="stg_intercom_conversations" type="SQL" />
-      <mapping pattern="orders" type="SQL" />
       <mapping pattern="volume_comparison_migration" type="SQL" />
+      <mapping pattern="orders" type="SQL" />
       <mapping pattern="accounts_distinct_clean" type="SQL" />
+      <mapping pattern="orders_flat_distinct_clean" type="SQL" />
       <mapping pattern="clients_distinct_clean" type="SQL" />
       <mapping pattern="stg_accounts" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -24,6 +20,8 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="download_json_to_disc" type="Python" />
+      <mapping pattern="load_to_bigquery" type="Python" />
     </extensionMap>
   </component>
 </application>
