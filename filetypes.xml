@@ -4,6 +4,7 @@
       <mapping pattern="activity_feed_distinct_clean" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping ext="tfbackend" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
